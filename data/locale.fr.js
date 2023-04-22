@@ -32,7 +32,7 @@ export const SliderOneData = [
     subTitle: "STUDIO KAMPUS",
     title: "STUDIOS PROFESSIONNELS",
     button: {
-      label: "DÉCOUVRIR PLUSA",
+      label: "DÉCOUVRIR PLUS",
       url: "/service-details"
     }
   },
@@ -41,7 +41,7 @@ export const SliderOneData = [
     subTitle: "STUDIO KAMPUS",
     title: "STUDIOS PROFESSIONNELS",
     button: {
-      label: "DÉCOUVRIR PLUSA",
+      label: "DÉCOUVRIR PLUS",
       url: "/service-details"
     }
   }
