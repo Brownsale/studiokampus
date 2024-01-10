@@ -20,7 +20,6 @@ const ContactPage = () => {
           <PageBanner title={locale === 'en-US' ? "Contact US" : "Contactez-nous"} />
           <ContactInfos />
           <TeamOne />
-          <GoogleMap extraClass="contact-page" />
           <Footer />
         </Layout>
       </SearchContextProvider>
